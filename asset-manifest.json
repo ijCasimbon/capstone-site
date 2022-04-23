@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/ijCasimbon/capstone-site/static/css/main.e6c13ad2.css",
-    "main.js": "//github.com/ijCasimbon/capstone-site/static/js/main.6b51500f.js",
-    "index.html": "//github.com/ijCasimbon/capstone-site/index.html",
-    "main.e6c13ad2.css.map": "//github.com/ijCasimbon/capstone-site/static/css/main.e6c13ad2.css.map",
-    "main.6b51500f.js.map": "//github.com/ijCasimbon/capstone-site/static/js/main.6b51500f.js.map"
+    "main.css": "/capstone-site/static/css/main.e6c13ad2.css",
+    "main.js": "/capstone-site/static/js/main.6b51500f.js",
+    "index.html": "/capstone-site/index.html",
+    "main.e6c13ad2.css.map": "/capstone-site/static/css/main.e6c13ad2.css.map",
+    "main.6b51500f.js.map": "/capstone-site/static/js/main.6b51500f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
