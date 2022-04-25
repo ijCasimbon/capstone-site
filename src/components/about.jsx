@@ -13,9 +13,9 @@ function About() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">About</h1>
+            <h1 class="font-weight-light">How to Play</h1>
             <p>
-              This is our game. TADA!
+              How to play the game.
             </p>
           </div>
         </div>

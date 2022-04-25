@@ -1,8 +1,8 @@
 import React from "react";
 
-function Home() {
+function Download() {
   return (
-    <div className="home">
+    <div className="contact">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
@@ -13,9 +13,10 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
+            <h1 class="font-weight-light">Dowload</h1>
             <p>
-              This is the game.
+              Requirements to download the game.
+              Put download link here.
             </p>
           </div>
         </div>
@@ -24,4 +25,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Download;

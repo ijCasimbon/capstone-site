@@ -9,6 +9,7 @@ import {
   Home,
   About,
   Contact,
+  Download,
 } from "./components";
 
 ReactDOM.render(
@@ -17,6 +18,7 @@ ReactDOM.render(
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
+      <Route path="/download" element={<Download />} />
       <Route path="/contact" element={<Contact />} />
     </Routes>
     <Footer />
