@@ -1,8 +1,8 @@
 import React from "react";
 
-function Download() {
+function LeaderBoard() {
   return (
-    <div className="download">
+    <div className="leaderBoard">
       <div class="container">
         <div class="row align-items-center my-5">
           <div class="col-lg-7">
@@ -13,10 +13,9 @@ function Download() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Download</h1>
+            <h1 class="font-weight-light">Top 10 scores</h1>
             <p>
-              Requirements to download the game.
-              Put download link here.
+              put top 10 here
             </p>
           </div>
         </div>
@@ -25,4 +24,4 @@ function Download() {
   );
 }
 
-export default Download;
+export default LeaderBoard;
