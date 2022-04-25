@@ -1,5 +1,4 @@
 import React from "react";
-
 function Download() {
   return (
     <div className="download">
@@ -16,8 +15,9 @@ function Download() {
             <h1 class="font-weight-light">Download</h1>
             <p>
               Requirements to download the game.
-              Put download link <a href="/game/My_First_Cpp_Game.exe" download>
-              here</a>.
+              Put download link here <a href="https://i.imgflip.com/3fr7ej.jpg" download>***</a>
+          
+              
             </p>
           </div>
         </div>
