@@ -16,7 +16,8 @@ function Download() {
             <h1 class="font-weight-light">Download</h1>
             <p>
               Requirements to download the game.
-              Put download link here.
+              Put download link <a href="/game/My_First_Cpp_Game.exe" download>
+              here</a>.
             </p>
           </div>
         </div>
