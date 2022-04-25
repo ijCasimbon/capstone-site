@@ -10,6 +10,7 @@ import {
   About,
   Contact,
   Download,
+  LeaderBoard,
 } from "./components";
 
 ReactDOM.render(
@@ -18,6 +19,7 @@ ReactDOM.render(
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
+      <Route path="/leaderBoard" element={<LeaderBoard />} />
       <Route path="/download" element={<Download />} />
       <Route path="/contact" element={<Contact />} />
     </Routes>
