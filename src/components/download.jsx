@@ -18,8 +18,8 @@ function Download() {
               Requirements to download the game.
               
             </p>
-            <p><a href="https://onedrive.live.com/download?cid=D8CCFBE118E7FB56&resid=D8CCFBE118E7FB56%21106&authkey=AFUnJmDb-Jkq5k8" className="btn btn-dark btn-lg" role="button" aria-pressed="true"  download>Game</a></p>
-            <p><a href="https://github.com/ijCasimbon/capstone-site/raw/main/src/components/tired.jpg/" className="btn btn-dark btn-lg" role="button" aria-pressed="true" download>tired</a></p>
+            <p><a href="https://onedrive.live.com/download?cid=D8CCFBE118E7FB56&resid=D8CCFBE118E7FB56%21106&authkey=AFUnJmDb-Jkq5k8" className="btn btn-dark btn-lg" role="button" aria-pressed="true" id="button" download>Game</a></p>
+            <p><a href="https://github.com/ijCasimbon/capstone-site/raw/main/src/components/tired.jpg/" className="btn btn-dark btn-lg" role="button" aria-pressed="true" id="button" download>tired</a></p>
 
           </div>
         </div>
