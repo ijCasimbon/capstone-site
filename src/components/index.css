@@ -10,3 +10,9 @@
 footer{
     background: black;
 }
+
+#button{
+    font-family: -apple-system, BlinkMacSystemFont, 'PixelDigivolve';
+    background: rgba(255, 0, 0, 0.86);
+    border: none;
+}
