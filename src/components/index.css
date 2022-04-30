@@ -1,6 +1,6 @@
 .navigation{
     font-family: -apple-system, BlinkMacSystemFont, 'PixelDigivolve';
-    background: #000000;
+    background: black;
 }
 
 .footer{
@@ -10,9 +10,17 @@
 footer{
     background: black;
 }
+.contact{
+    background-color: white; 
+    /*text-align: left;  */ 
+}
 
 #button{
     font-family: -apple-system, BlinkMacSystemFont, 'PixelDigivolve';
     background: rgba(255, 0, 0, 0.86);
     border: none;
 }
+.leaderBoard{
+    /*text-align: center; */
+}
+

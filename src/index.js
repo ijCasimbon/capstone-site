@@ -1,11 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+import { Link, animateScroll as scroll } from "react-scroll/modules";
 //import * as serviceWorker from "./serviceWorker";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import {
   Navigation,
-  Footer,
+  //Footer,
   Home,
   About,
   Contact,
@@ -23,7 +24,7 @@ ReactDOM.render(
       <Route path="/download" element={<Download />} />
       <Route path="/contact" element={<Contact />} />
     </Routes>
-    <Footer />
+    {/*<Footer />*/}
   </Router>,
 
   document.getElementById("root")

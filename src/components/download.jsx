@@ -1,4 +1,5 @@
 import React from "react";
+import { Link, animateScroll as scroll } from "react-scroll/modules";
 function Download() {
   
   return (
@@ -8,8 +9,10 @@ function Download() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
+              src="https://github.com/ijCasimbon/capstone-site/raw/main/src/components/tired.jpg/"
               alt=""
+              //width= "400"
+              //height = "400"
             />
           </div>
           <div class="col-lg-5">
