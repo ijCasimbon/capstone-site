@@ -16,3 +16,9 @@ footer{
     background: rgba(255, 0, 0, 0.86);
     border: none;
 }
+.leaderBoard{
+    /*text-align: center; */
+    background-color: white;
+    text-align: center; 
+}
+

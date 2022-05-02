@@ -15,7 +15,7 @@ function Contact() {
           <div class="col-lg-5">
             <h1 class="font-weight-light">Contact</h1>
             <p>
-              This is group 4
+              This is group 4.
             </p>
           </div>
         </div>
