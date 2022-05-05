@@ -6,7 +6,7 @@ function Footer() {
       <footer class="py-1 fixed-bottom">
         <div class="container">
           <p class="m-0 text-center text-white">
-            Site was last update at May 1, 2022.
+            Group 4 website &#10084; &#9650; &#9646; 
           </p>
         </div>
       </footer>

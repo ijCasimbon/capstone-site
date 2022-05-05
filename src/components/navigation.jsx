@@ -1,7 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import { Navbar, Nav, Container } from 'react-bootstrap'
 
 function Navigation() {
+  
   return (
   <div className="navigation">
   <nav className="navbar navbar-expand-lg navbar-dark">
@@ -18,9 +20,9 @@ function Navigation() {
   <div className="collapse navbar-collapse" id="navbarText">
     <ul className="navbar-nav mr-auto">
       <li className="nav-item">
-        <NavLink className="nav-link " to="/">
+        <NavLink className="nav-link" to="/">
           Home
-        <span className="sr-only">(current)</span>
+        {/*<span className="sr-only">(current)</span> */}
         </NavLink>
       </li>
 

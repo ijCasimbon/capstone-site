@@ -97,7 +97,7 @@ function LeaderBoard() {
             <td>99</td>
           </tr>
           <tr>
-            <td>2</td>
+            <td>2</td>  
             <td>impishperth</td>
             <td>95</td>
           </tr>
@@ -105,7 +105,7 @@ function LeaderBoard() {
             <td>3</td>
             <td>incisivelincoln</td>
             <td>94</td>
-          </tr>
+          </tr> 
           <tr>
             <td>4</td>
             <td>trenchcoatpeterborough</td>
