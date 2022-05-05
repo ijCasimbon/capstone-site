@@ -21,4 +21,23 @@ footer{
     background-color: white;
     text-align: center; 
 }
+.about
+{
+    background-color: white;
+}
+.win{
+    color: red;
+}
+.lose{
+    color: blue;
+}
+.gold{
+    color: gold;
+}
+.silver{
+    color: silver;
+}
+.bronze{
+    color: #B87333;
+}
 

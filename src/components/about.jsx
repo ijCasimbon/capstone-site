@@ -16,8 +16,16 @@ function About() {
             <dd class="col-sm-10">Jump</dd>
             </dl>
 
-            <h2>Objectives</h2>
-            <p>Players must collect all 3 coins while avoiding all blue obstacles.</p>
+            <h2> <span className="win">How to win</span></h2>
+            <p>  Players must collect all 3 coins. </p>
+            <p>  Grab the flag to advance to the next level.</p>
+            <p>  Complete all levels for a victory screen with your score :D</p>
+         
+            <h3><span className="lose">How to lose</span></h3>
+            <p>  If you hit blue obstacles you lose HP.</p>
+            <p>  Once your HP hits zero your game ends.</p>
+            <p>  you will start from level 1 again D:</p>
+
           </div>
         </div>
       </div>
