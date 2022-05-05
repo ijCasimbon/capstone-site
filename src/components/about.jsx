@@ -5,18 +5,19 @@ function About() {
     <div className="about">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
-          <div class="col-lg-5">
-            <h1 class="font-weight-light">How to Play</h1>
-            <p>
-              How to play the game.
-            </p>
+          <div class="col-lg-12">
+            <h1>How to play the game.</h1>
+
+            <dl class="row">
+            <dt class="col-sm-2"><h3><b>↔</b></h3></dt>
+            <dd class="col-sm-10">Movement</dd>
+
+            <dt class="col-sm-2"><b>[SPACE BAR]</b></dt>
+            <dd class="col-sm-10">Jump</dd>
+            </dl>
+
+            <h2>Objectives</h2>
+            <p>Players must collect all 3 coins while avoiding all blue obstacles.</p>
           </div>
         </div>
       </div>
