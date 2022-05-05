@@ -17,11 +17,11 @@ ReactDOM.render(
   <Router>
     <Navigation />
     <Routes>
-      <Route path="/about" element={<About />} />
-      <Route path="/leaderBoard" element={<LeaderBoard />} />
-      <Route path="/download" element={<Download />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="/" element={<Home />} />
+      <Route path="/capstone-site/about" element={<About />} />
+      <Route path="/capstone-site/leaderBoard" element={<LeaderBoard />} />
+      <Route path="/capstone-site/download" element={<Download />} />
+      <Route path="/capstone-site/contact" element={<Contact />} />
+      <Route path="/capstone-site/" element={<Home />} />
       </Routes>
     <Footer />
   </Router>,
