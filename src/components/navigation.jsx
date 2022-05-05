@@ -18,7 +18,7 @@ function Navigation() {
   <div className="collapse navbar-collapse" id="navbarText">
     <ul className="navbar-nav mr-auto">
       <li className="nav-item">
-        <NavLink className="nav-link " to="/">
+        <NavLink className="nav-link" to="/">
           Home
         <span className="sr-only">(current)</span>
         </NavLink>
