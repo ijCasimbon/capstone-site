@@ -8,7 +8,7 @@ function Contact() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="https://github.com/ijCasimbon/capstone-site/raw/main/src/components/clipper.png/"
+              src="https://github.com/ijCasimbon/capstone-site/raw/main/src/components/images/clipper.png/"
               alt=""
             />
           </div>
