@@ -94,52 +94,52 @@ function LeaderBoard() {
           <tr>
             <td>1</td>
             <td>Intero99</td>
-            <td>99</td>
+            <td>3000</td>
           </tr>
           <tr>
             <td>2</td>  
             <td>impishperth</td>
-            <td>95</td>
+            <td>2795</td>
           </tr>
           <tr>
             <td>3</td>
             <td>incisivelincoln</td>
-            <td>94</td>
+            <td>2560</td>
           </tr> 
           <tr>
             <td>4</td>
             <td>trenchcoatpeterborough</td>
-            <td>90</td>
+            <td>2460</td>
           </tr>
           <tr>
             <td>5</td>
             <td>tailsurrey</td>
-            <td>88</td>
+            <td>2399</td>
           </tr>
           <tr>
             <td>6</td>
             <td>discoursemadison</td>
-            <td>85</td>
+            <td>2320</td>
           </tr>
           <tr>
             <td>7</td>
             <td>historyalabama</td>
-            <td>83</td>
+            <td>2250</td>
           </tr>
           <tr>
             <td>8</td>
             <td>sunflowersalisbury</td>
-            <td>82</td>
+            <td>2230</td>
           </tr>
           <tr>
             <td>9</td>
             <td>criticallouisiana</td>
-            <td>81</td>
+            <td>2200</td>
           </tr>
           <tr>
             <td>10</td>
             <td>homesvancouver</td>
-            <td>80</td>
+            <td>2156</td>
           </tr>
         </tbody>
       </ReactBootStrap.Table>
