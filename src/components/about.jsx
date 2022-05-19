@@ -9,11 +9,19 @@ function About() {
             <h1>How to play the game.</h1>
 
             <dl class="row">
-            <dt class="col-sm-2"><h3><b>↔</b></h3></dt>
+            <dt class="col-sm-2"><h3><b>↑ ↓ → ←</b></h3></dt>
             <dd class="col-sm-10">Movement</dd>
 
             <dt class="col-sm-2"><b>[SPACE BAR]</b></dt>
             <dd class="col-sm-10">Jump</dd>
+
+            <dt class="col-sm-2"><b>[ESC]</b></dt>
+            <dd class="col-sm-10">Pause the game</dd>
+            
+            <dt class="col-sm-2"><b>[ENTER]</b></dt>
+            <dd class="col-sm-10">Selecting options</dd>
+
+
             </dl>
 
             <h2> <span className="win">How to win</span></h2>
