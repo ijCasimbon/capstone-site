@@ -13,15 +13,15 @@
 }
 
 @font-face {
-  font-family:'Zelda';
-  src: local('Zelda'), url(./fonts/Zelda.ttf) format('truetype');
+  font-family:'Connecticut';
+  src: local('Connecticut'), url(./fonts/Connecticut.ttf) format('truetype');
   /* other formats include: 'woff2', 'truetype, 'opentype',
                             'embedded-opentype', and 'svg' */
 }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Zelda';
+  font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
