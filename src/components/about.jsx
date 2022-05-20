@@ -54,17 +54,18 @@ function About() {
           <h3><span className="powerup">Power-ups</span></h3>
           <figure class="col-sm-12">
             <img src="https://github.com/ijCasimbon/capstone-site/blob/main/src/components/images/shrink.png?raw=true" class="figure-img img-fluid rounded" alt="Shrink power-up image" ></img>
-            <figcaption>Shrinks the players</figcaption>
+            <figcaption>Shrinks the players.</figcaption>
           </figure>
           
           <figure class="col-sm-12">
             <img src="https://github.com/ijCasimbon/capstone-site/blob/main/src/components/images/phase.png?raw=true" class="figure-img img-fluid rounded" alt="Phase power-up image" ></img>
-            <figcaption>Shrinks the players</figcaption>
+            <figcaption>Alters the color of specific walls & platforms to light blue. Allows the player to go through these selected areas.</figcaption>
           </figure>
 
           <figure class="col-sm-12">
             <img src="https://github.com/ijCasimbon/capstone-site/blob/main/src/components/images/Immunity.png?raw=true" class="figure-img img-fluid rounded" alt="Immunity power-up image " ></img>
-            <figcaption>Alters the color of specific walls & platforms to light blue. Allows the player to go through these selected areas</figcaption>
+            <figcaption>Alters which enemies the player is currently immune to.Those that the player can bypass are gray. 
+</figcaption>
           </figure>
           </div>
         </div>
