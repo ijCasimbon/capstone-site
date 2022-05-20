@@ -13,15 +13,15 @@
 }
 
 @font-face {
-  font-family:'FontsFree-Net-Beyond-Mars';
-  src: local('FontsFree-Net-Beyond-Mars'), url(./fonts/FontsFree-Net-Beyond-Mars.ttf) format('truetype');
+  font-family:'FontsFree-Net-SF-TransRobotics-Extended';
+  src: local('FontsFree-Net-SF-TransRobotics-Extended'), url(./fonts/FontsFree-Net-SF-TransRobotics-Extended.ttf) format('truetype');
   /* other formats include: 'woff2', 'truetype, 'opentype',
                             'embedded-opentype', and 'svg' */
 }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-Beyond-Mars';
+  font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-SF-TransRobotics-Extended';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
