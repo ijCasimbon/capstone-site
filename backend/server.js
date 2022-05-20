@@ -1,5 +1,5 @@
 // To connect with your mongoDB database
-const mongoose = require('mongoose');
+/*const mongoose = require('mongoose');
 mongoose.connect('mongodb+srv://Intero:Kidbluegod456@cluster0.kolbh.mongodb.net/yourDB-name', {
 	dbName: 'yourDB-name',
 	useNewUrlParser: true,
@@ -60,4 +60,4 @@ app.post("/register", async (req, resp) => {
 		resp.send("Something Went Wrong");
 	}
 });
-app.listen(5000);
+app.listen(5000); */
