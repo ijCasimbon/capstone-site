@@ -1,10 +1,10 @@
 .navigation{
-    font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-ARCADE';
+    font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-Beyond-Mars';
     background: #000000;
 }
 
 .footer{
-    font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-ARCADE';
+    font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-Beyond-Mars';
 }
 
 footer{
@@ -12,7 +12,7 @@ footer{
 }
 
 #button{
-    font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-ARCADE';
+    font-family: -apple-system, BlinkMacSystemFont, 'FontsFree-Net-Beyond-Mars';
     background: rgba(255, 0, 0, 0.86);
     border: none;
 }
