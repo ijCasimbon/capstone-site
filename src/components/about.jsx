@@ -9,7 +9,7 @@ function About() {
             <h1>How to play the game.</h1>
 
             <dl class="row">
-            <dt class="col-sm-2"><h3><b>↑ ↓ → ←</b></h3></dt>
+            <dt class="col-sm-2"><h3><b>↑↓→←</b></h3></dt>
             <dd class="col-sm-10">Movement</dd>
 
             <dt class="col-sm-2"><b>[SPACE BAR]</b></dt>
@@ -34,6 +34,15 @@ function About() {
             <p>  Once your HP hits zero your game ends.</p>
             <p>  you will start from level 1 again D:</p>
 
+          <h3><span className="powerup">Power-ups</span></h3>
+          <figure class="figure">
+  <img src="images/shrink.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure." ></img>
+  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+</figure>
+          <ul>
+              <li id="shrink">Shrinks the player</li>
+            </ul>
+            
           </div>
         </div>
       </div>
