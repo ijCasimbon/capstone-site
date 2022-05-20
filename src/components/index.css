@@ -1,10 +1,12 @@
 .navigation{
     font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
     background: #000000;
+    font-size: larger;
 }
 
 .footer{
     font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
+    font-size: larger;
 }
 
 footer{
@@ -22,11 +24,25 @@ footer{
     text-align: center; 
 }
 .home{
+    font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
     text-align: center;
+    font-size: larger;
+}
+.dowload{
+    font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
+    text-align: center;
+    font-size: larger;
+}
+.contact{
+    font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
+    text-align: center;
+    font-size: larger;
 }
 .about
 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
     background-color: white;
+    font-size: larger;
 }
 .win{
     color: red;

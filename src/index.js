@@ -2,7 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 //import * as serviceWorker from "./serviceWorker";
-import { BrowserRouter as Router, Route, Routes, } from "react-router-dom";
+//import { BrowserRouter as Router, Route, Routes, } from "react-router-dom";
+import { HashRouter, Route, Router, Routes } from "react-router-dom";
 import {
   Navigation,
   Footer,
@@ -14,7 +15,7 @@ import {
 } from "./components";
 
 ReactDOM.render(
-  <Router>
+  <HashRouter>
     <Navigation />
     <Routes>
       <Route path="/capstone-site/about" element={<About />} />
@@ -24,7 +25,7 @@ ReactDOM.render(
       <Route path="/capstone-site/" element={<Home />} />
       </Routes>
     <Footer />
-  </Router>,
+  </HashRouter>,
 
   document.getElementById("root")
 );
