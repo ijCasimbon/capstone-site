@@ -32,7 +32,7 @@ function About() {
 
           <figure class="col-lg-12">
             <img src="https://github.com/ijCasimbon/capstone-site/blob/main/src/components/images/enemies.png?raw=true" class="figure-img img-fluid rounded" className="enemies" alt="enemies" ></img>
-            <figcaption>Avoid all the enemies. If players touch them, they will lose 1 life.</figcaption>
+            <figcaption>Avoid all the enemies. If players touch them, they will lose 1 life and return back to the starting point. Player will lose if all 3 lives are used.</figcaption>
           </figure>
             
             <figure class="col-lg-12">
@@ -44,16 +44,11 @@ function About() {
             <img src="https://github.com/ijCasimbon/capstone-site/blob/main/src/components/images/heart.png?raw=true" class="figure-img img-fluid rounded" className="heart" alt="heart" ></img>
             <figcaption>Collect heart to regain 1 life that was lost.</figcaption>
           </figure>
-          
+
           <figure class="col-lg-12">
             <img src="https://github.com/ijCasimbon/capstone-site/blob/main/src/components/images/final.png?raw=true" class="figure-img img-fluid rounded" className="final" alt="final" ></img>
             <figcaption>Finish all levels to complete the game.</figcaption>
           </figure>
-
-            <h3><span className="lose">How to lose</span></h3>
-            <p>  If you hit blue obstacles you lose HP.</p>
-            <p>  Once your HP hits zero your game ends.</p>
-            <p>  you will start from level 1 again D:</p>
 
 
           <h3><span className="powerup">Power-ups</span></h3>
