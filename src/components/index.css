@@ -51,4 +51,17 @@ footer{
     max-height: 100%;
     display: block; 
 }
+.final{
+    width: 40%;
+}
+.coin{
+    width: 10%
+}
 
+.heart{
+    width: 15%;
+}
+
+.enemies{
+    width: 30%
+}
