@@ -1,11 +1,11 @@
 // To connect with your mongoDB database
-const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://Intero:Kidbluegod456@cluster0.kolbh.mongodb.net/yourDB-name', {
-	dbName: 'yourDB-name',
+/*const mongoose = require("mongoose");
+mongoose.connect("mongodb+srv://Intero:Kidbluegod456@cluster0.kolbh.mongodb.net/your_Score", {
+	dbName: "your_Score",
 	useNewUrlParser: true,
 	useUnifiedTopology: true
 }, err => err ? console.log(err) :
-	console.log('Connected to yourDB-name database'));
+	console.log("Connected to your_Score database"));
 
 // Schema for users of app
 const UserSchema = new mongoose.Schema({
@@ -23,11 +23,11 @@ const UserSchema = new mongoose.Schema({
 		default: Date.now,
 	},
 });
-const User = mongoose.model('users', UserSchema);
+const User = mongoose.model("users", UserSchema);
 User.createIndexes();
 
 // For backend and express
-const express = require('express');
+const express = require("express");
 const app = express();
 const cors = require("cors");
 console.log("App listen at port 5000");
@@ -60,4 +60,4 @@ app.post("/register", async (req, resp) => {
 		resp.send("Something Went Wrong");
 	}
 });
-app.listen(5000);
+app.listen(5000); */

@@ -13,17 +13,18 @@
 }
 
 @font-face {
-  font-family:'PixelDigivolve';
-  src: local('PixelDigivolve'), url(./fonts/PixelDigivolve.otf) format('opentype');
+  font-family:'Connecticut';
+  src: local('Connecticut'), url(./fonts/Connecticut.ttf) format('truetype');
   /* other formats include: 'woff2', 'truetype, 'opentype',
                             'embedded-opentype', and 'svg' */
 }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'PixelDigivolve';
+  font-family: -apple-system, BlinkMacSystemFont, 'Connecticut';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: large;
 }
 
 code {
