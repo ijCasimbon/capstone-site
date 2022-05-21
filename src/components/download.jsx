@@ -22,7 +22,7 @@ function Download() {
               
             <p><a href="https://onedrive.live.com/download?cid=B5F6E3853FFF8F16&resid=B5F6E3853FFF8F16%21107&authkey=AM9NqqNTPgBWX8w" className="btn btn-dark btn-lg" role="button" aria-pressed="true" id="button" download>Game</a></p>
           </div>
-        </div>
+        </div
       </div>
     </div>
   );
