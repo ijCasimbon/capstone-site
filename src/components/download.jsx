@@ -20,7 +20,7 @@ function Download() {
             <p> Memory: 8 GB RAM </p>
             <p> Storage: 1 GB available space</p>
               
-            <p><a href="https://onedrive.live.com/download?cid=D8CCFBE118E7FB56&resid=D8CCFBE118E7FB56%21106&authkey=AFUnJmDb-Jkq5k8" className="btn btn-dark btn-lg" role="button" aria-pressed="true" id="button" download>Game</a></p>
+            <p><a href="https://onedrive.live.com/download?cid=B5F6E3853FFF8F16&resid=B5F6E3853FFF8F16%21107&authkey=AM9NqqNTPgBWX8w" className="btn btn-dark btn-lg" role="button" aria-pressed="true" id="button" download>Game</a></p>
           </div>
         </div>
       </div>
